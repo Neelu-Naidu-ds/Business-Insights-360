@@ -1,18 +1,18 @@
-# **AtliQ Hardware Business Insights 360**
+📊# **AtliQ Hardware Business Insights 360**
 
 AtliQ Hardware, a global leader in computer accessories, faced financial setbacks despite expanding into new markets. The company relied on intuition rather than data-driven decision-making, leading to unforeseen losses. This project leverages **Power BI** to transform business operations by providing insights into **finance, sales, marketing, and supply chain performance**.
 
-[MY LIVE DASHBOARD LINK](https://app.powerbi.com/view?r=eyJrIjoiMzExNGU2MGQtMTg0MS00OTE1LTg2ZWMtNTIzNzQwN2NjZmI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+👉[MY LIVE DASHBOARD LINK](https://app.powerbi.com/view?r=eyJrIjoiMzExNGU2MGQtMTg0MS00OTE1LTg2ZWMtNTIzNzQwN2NjZmI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
-## **Business Problem & Solution**
+💬## **Business Problem & Solution**
 
 After launching a new store in the U.S., AtliQ encountered **unexpected losses** due to **limited data analysis and ineffective decision-making**. Competitors with strong analytics capabilities further intensified the challenge. To stay competitive, AtliQ adopted **Power BI** to centralize data, improve forecasting accuracy, and enhance decision-making.
 
 ---
 
-## **Project Goals**
+🎯## **Project Goals**
 
 - Develop a **comprehensive dashboard** for real-time business insights.  
 - Enable **stakeholders to make data-driven decisions** across multiple departments:
@@ -30,7 +30,7 @@ The data was sourced from **MySQL databases** and **Excel/CSV files**, covering 
 
 ---
 
-## **Dashboard Overview**
+📊## **Dashboard Overview**
 
 A **six-page Power BI dashboard** was created to provide deep business insights:
 
@@ -43,7 +43,7 @@ A **six-page Power BI dashboard** was created to provide deep business insights:
 
 ---
 
-## **Power BI Techniques Implemented**
+📑## **Power BI Techniques Implemented**
 
 - **Data Modeling** using **Snowflake Schema** for better relationships.
 - **DAX Measures** for advanced calculations and KPIs.
@@ -54,7 +54,7 @@ A **six-page Power BI dashboard** was created to provide deep business insights:
 
 ---
 
-## **Technologies Used**
+🔍## **Technologies Used**
 
 - **SQL (MySQL):** Data extraction and manipulation.
 - **Power BI Desktop:** Dashboard creation and data visualization.
